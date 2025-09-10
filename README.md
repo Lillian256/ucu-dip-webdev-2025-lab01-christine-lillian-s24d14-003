@@ -6,7 +6,6 @@
  1) PR page  2) DevTools → Network tab (HTML request shows 200)
  ## Reflection (100–150 words)- What is an HTTP request/response?- Which status code did you see, and what does it mean?- One thing you learned about Git today.
  ## Reflection (100-150 words)
-
 An HTTP request/response is the fundamental process by which web browsers communicate with servers. A request is sent from the client (my browser) asking for a resource, and the server sends back a response containing the requested data and a status code.
 
 I saw a **200 OK** status code, which means the request for my HTML file was successful and the server delivered it without any issues[cite: 126, 149]. This is a good status code to see, as it confirms that my webpage is accessible.
